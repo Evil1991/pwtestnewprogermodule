@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <module>
-	<name>pwtestnewprogermodule</name>
+	<name>pwtestnewprogermodule</name> 
 	<displayName><![CDATA[pwtestnewprogermodule]]></displayName>
 	<version><![CDATA[0.1.0]]></version>
 	<description><![CDATA[Создать тестовый модуль через гитхаб, сделать скриншот модуля на admin.leadget.ru, отправить куратору и удалить.]]></description>
